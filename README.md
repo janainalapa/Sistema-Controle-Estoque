@@ -13,7 +13,7 @@ O sistema permite organizar informações de produtos, acompanhar quantidades di
 - Facilitar o acompanhamento de entradas e saídas;
 - Aplicar conhecimentos adquiridos durante o curso.
 
-# Tecnologias utilizadas
+# Tecnologias Utilizadas.
 
 - AppSheet (desenvolvimento do aplicativo);
 - Google Sheets (armazenamento e gerenciamento dos dados);
